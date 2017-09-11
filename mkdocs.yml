@@ -1,0 +1,7 @@
+site_name: Lexen Documentation
+site_description: Lexen offical documentation
+theme: 'material'
+pages:
+- ['index.md', 'Index']
+- ['getstarted.md', 'Get Started']
+- ['devices/getstarted.md', '设备', '入门']
