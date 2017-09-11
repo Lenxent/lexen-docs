@@ -1,2 +1,2 @@
 # lexen-docs
-The lexen documentation
+The lexen documentation, powered by MkDocs
